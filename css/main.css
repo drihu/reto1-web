@@ -1,0 +1,37 @@
+body {
+  background: #FFF;
+}
+
+header.hero {
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+article {
+  padding: 10px;
+}
+
+a.button {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+time {
+  font-size: 0.8em;
+  color: #888;
+}
+
+article p {
+  text-align: justify;
+}
+
+article,
+p:last-child {
+  margin-bottom: 15px;
+}
+
+footer.footer {
+  margin-top: 30px;
+}
